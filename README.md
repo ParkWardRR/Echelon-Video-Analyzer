@@ -48,7 +48,7 @@ The script allows for video file extensions to be specified by modifying the `VA
 
 ## Contributing
 
-We welcome your contributions! Please review our contribution guidelines prior to submitting any pull requests. 
+I welcome your contributions!  
 
 ## License
 
